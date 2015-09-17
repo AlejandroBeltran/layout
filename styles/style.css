@@ -1,0 +1,17 @@
+
+body{
+    background: #3E4747;
+}
+#wrapper{
+  background: #FFFFFF;
+  width: 800px;
+  margin: 50px auto;
+}
+#header{
+  background: #FF3333;
+  padding: 15px;
+  color: white;
+}
+#header h1{
+  text-align: center;
+}
